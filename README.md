@@ -10,3 +10,5 @@ Stephanie M. Ribet [1], Rohan Dhall [1], Colin Ophus [2], Karen C. Bustillo [1]
 Contact: sribet@lbl.gov, kbustillo@lbl.gov
 
 Preprint available on arXiv: https://doi.org/10.48550/arXiv.2506.11327
+
+Work at the [Molecular Foundry](https://foundry.lbl.gov) was supported by the Office of Science, Office of Basic Energy Sciences, of the U.S. Department of Energy under Contract No. DE-AC02-05CH11231.
