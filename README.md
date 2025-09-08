@@ -9,4 +9,4 @@ Stephanie M. Ribet [1], Rohan Dhall [1], Colin Ophus [2], Karen C. Bustillo [1]
 
 Contact: sribet@lbl.gov, kbustillo@lbl.gov
 
-Manuscript: https://doi.org/10.48550/arXiv.2506.11327
+Preprint available on arXiv: https://doi.org/10.48550/arXiv.2506.11327
